@@ -1,12 +1,3 @@
-To make your resume **ATS (Applicant Tracking System) compliant**, it’s important to ensure the formatting is simple, keywords are included, and your information is easy to parse. Here are some steps I’ve followed to format your resume for ATS compliance:
-
-- Avoid using tables, text boxes, and images, as they can confuse ATS software.
-- Use standard section headings (e.g., “Professional Experience,” “Education,” “Skills”).
-- Use keywords from the job description that match your skills and experience.
-- Ensure all dates and job titles are clearly aligned and easy to read.
-
-Here’s your ATS-compliant resume:
-
 ---
 
 **MANOJ KUMAR SINGH**  
