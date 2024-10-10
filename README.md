@@ -112,4 +112,3 @@ Engineering Manager, Fullstack Development, React.js, Node.js, Kubernetes, AWS, 
 
 ---
 
-This version is ATS-compliant because it uses simple formatting, clear section headings, and includes relevant keywords that match the technologies, tools, and roles you’ve handled.
